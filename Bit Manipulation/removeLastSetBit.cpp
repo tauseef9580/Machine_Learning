@@ -6,6 +6,10 @@
   to remove that set bit first we have to find out which bit is 1 if we start from the lest side, when we encounter that bit, we will remove that
 the code is provided below
 
+----------------------Edit ----------------------------------------------
+a direct way is to that by doing n&n-1  this will give you direct answer
+-------------------------------------------------------------------------
+
 */
 
 
